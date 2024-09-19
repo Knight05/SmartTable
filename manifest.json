@@ -1,15 +1,20 @@
 {
   "name": "Simple Table Visualization",
-  "logoUrl": "https://Knight05.github.io/SmartTable/logo.png",
+  "logoUrl": "https://Knight05.github.io/SmartTable/logo-256.png",
   "organization": "Your Organization Name",
   "organizationUrl": "https://your-organization-website.com",
   "description": "A simple table that accepts dimensions and measures.",
+   "organizationUrl": "https://Knight05.github.io/SmartTable/",
+    "termsOfServiceUrl": "https://Knight05.github.io/SmartTable/",
+    "supportUrl": "https://Knight05.github.io/SmartTable/",
+    "packageUrl": "https://Knight05.github.io/SmartTable/",
+    "privacyPolicyUrl": "https://Knight05.github.io/SmartTable/",
   "devMode": true,
   "components": [
     {
       "id": "simpleTable",
       "name": "Simple Table",
-      "iconUrl": "https://Knight05.github.io/SmartTable/icon.png",
+      "iconUrl": "https://Knight05.github.io/SmartTable/icon-256.png",
       "description": "A simple table that accepts dimensions and measures.",
       "resource": {
         "js": "https://Knight05.github.io/SmartTable/script.js",
