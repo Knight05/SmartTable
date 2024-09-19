@@ -1,14 +1,14 @@
 {
-  "name": "Simple Table Visualization",
+  "name": "SmartTable",
   "description": "A simple table that accepts dimensions and measures.",
   "resources": [
     {
       "type": "javascript",
-      "url": "script.js"
+      "url": "https://knight05.github.io/SmartTable/script.js"
     },
     {
       "type": "css",
-      "url": "style.css"
+      "url": "https://knight05.github.io/SmartTable/style.css"
     }
   ],
   "settings": {
