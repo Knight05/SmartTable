@@ -1,0 +1,17 @@
+{
+  "name": "Simple Table Visualization",
+  "description": "A simple table that accepts dimensions and measures.",
+  "resources": [
+    {
+      "type": "javascript",
+      "url": "script.js"
+    },
+    {
+      "type": "css",
+      "url": "style.css"
+    }
+  ],
+  "settings": {
+    "access": "PUBLIC"
+  }
+}
