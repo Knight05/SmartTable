@@ -1,0 +1,22 @@
+{
+  "data": {
+    "targets": [
+      {
+        "id": "dimensions",
+        "name": "Dimensions",
+        "type": "DIMENSION",
+        "min": 1,
+        "max": 5
+      },
+      {
+        "id": "measures",
+        "name": "Measures",
+        "type": "METRIC",
+        "min": 1,
+        "max": 5
+      }
+    ]
+  },
+  "style": {},
+  "options": {}
+}
